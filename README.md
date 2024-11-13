@@ -8,8 +8,6 @@ I'm a passionate Full Stack Developer with expertise in building dynamic web app
 - **Others:** Docker, Kubernetes, AWS, Jenkins, Kafka
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Song-pro-taegeun&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Song-pro-taegeun&layout=compact&theme=radical)
 
 ## 🚀 My Projects
 Here are some highlighted projects I've contributed to:
