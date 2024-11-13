@@ -1,2 +1,24 @@
-## Hi there 👋
-[![Taegeub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-pro-taegeun&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+# Hello, I'm [Your Name]! 👋
+I'm a passionate Full Stack Developer with expertise in building dynamic web applications from scratch. I have experience with various frameworks and am always open to learning new technologies.
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Vue, Angular
+- **Backend:** Java Spring Boot, Node.js, Kotlin
+- **Database:** MySQL, MongoDB, Redis
+- **Others:** Docker, Kubernetes, AWS, Jenkins, Kafka
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Song-pro-taegeun&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Song-pro-taegeun&layout=compact&theme=radical)
+
+## 🚀 My Projects
+Here are some highlighted projects I've contributed to:
+- **Project Name 1** - Brief description of what it does. [Repo](link)
+- **Project Name 2** - Brief description of what it does. [Repo](link)
+
+## 🌱 Currently Learning
+I'm currently deepening my knowledge in Kubernetes, advanced React patterns, and microservices architecture with Spring Boot.
+
+## 🤝 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
