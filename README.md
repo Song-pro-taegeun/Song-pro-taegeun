@@ -60,14 +60,19 @@
 ## 📈 GitHub Stats
 ![Song-pro-taegeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-pro-taegeun&show_icons=true&theme=tokyonight)  
 
-## 🚀 My Projects
-Here are some highlighted projects I've contributed to:
-- **Project Name 1** - Brief description of what it does. [Repo](link)
-- **Project Name 2** - Brief description of what it does. [Repo](link)
+### 🏆 Solved.ac
+<p align="left">
+  <a href="https://solved.ac/yourusername">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xormsdlrnt" alt="Solved.ac Profile"/>
+  </a>
+</p>
+
 
 ## 🌱 Currently Learning
 저는 현재 마이크로서비스에 대한 아키텍처 설계와 쿠버네티스의 기술 심화를 학습하고 있습니다.
 
-## 🤝 Let's Connect!
-- [Notion]([https://www.linkedin.com/in/yourusername](https://pentagonal-hippodraco-9c7.notion.site/Developer-12ed2a86a71880e4868ce38f1b19a3fa?pvs=4))
+### 📝 Notion
+<p align="left">
+  <img src="[https://img.shields.io/badge/Notion-000000](https://www.linkedin.com/in/yourusername](https://pentagonal-hippodraco-9c7.notion.site/Developer-12ed2a86a71880e4868ce38f1b19a3fa?pvs=4)?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</p>
 
