@@ -1,6 +1,6 @@
 # 안녕하세요, 송태근입니다 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-pro-taegeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 동적 웹 애플리케이션 구축에 대한 전문 지식을 갖춘 열정적인 풀 스택 개발자입니다. 저는 다양한 프레임워크에 대한 경험이 있으며 항상 새로운 기술을 배우는 데 열려 있습니다.
-
+<br/>
 
 
 ## 🛠️ Tech Stack
@@ -56,9 +56,11 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
+<br/>
 
 ## 📈 GitHub Stats
 ![Song-pro-taegeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-pro-taegeun&show_icons=true&theme=tokyonight)  
+<br/>
 
 ### 🏆 Solved.ac
 <p align="left">
@@ -66,10 +68,11 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xormsdlrnt" alt="Solved.ac Profile"/>
   </a>
 </p>
-
+<br/>
 
 ## 🌱 Currently Learning
 저는 현재 마이크로서비스에 대한 아키텍처 설계와 쿠버네티스의 기술 심화를 학습하고 있습니다.
+<br/>
 
 ## 📝 Notion
 <p align="left">
