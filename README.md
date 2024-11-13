@@ -9,7 +9,6 @@ I'm a passionate Full Stack Developer with expertise in building dynamic web app
 
 ## 📈 GitHub Stats
 ![Song-pro-taegeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-pro-taegeun&show_icons=true&theme=tokyonight)  
-![Song-pro-taegeun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song-pro-taegeun&theme=tokyonight)
 
 ## 🚀 My Projects
 Here are some highlighted projects I've contributed to:
