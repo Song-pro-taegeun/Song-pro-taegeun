@@ -11,10 +11,9 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
-  <img src="https://img.shields.io/badge/QueryDSL-512BD4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAAKElEQVR4AWMQApzC6bTo//9/lRuwUwQm/xVGYBWMMABwYE6EgKaMYEzwFgAAgMAij+EDLYhMAAAAASUVORK5CYII=&logoColor=white" alt="QueryDSL" />
+  <img src="https://img.shields.io/badge/QueryDSL-512BD4?style=for-the-badge&logo=google&logoColor=white" alt="QueryDSL" />
   <img src="https://img.shields.io/badge/MyBatis-BF1A1A?style=for-the-badge&logo=google&logoColor=white" alt="MyBatis" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Frontend
