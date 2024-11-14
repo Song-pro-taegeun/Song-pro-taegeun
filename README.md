@@ -76,8 +76,9 @@
 
 ## 📝 Notion
 <p align="left">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   <a href ="https://pentagonal-hippodraco-9c7.notion.site/Developer-12ed2a86a71880e4868ce38f1b19a3fa?pvs=4" target="_blank">
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+    이력서 보러가기
   </a>
 </p>
 
