@@ -82,7 +82,7 @@
 ## 📈 GitHub Stats
 ![Song-pro-taegeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-pro-taegeun&show_icons=true&theme=tokyonight)  
 <br/>
-
+<!-- 
 ### 🏆 Solved.ac
 <p align="left">
   <a href="https://solved.ac/yourusername">
@@ -90,6 +90,7 @@
   </a>
 </p>
 <br/>
+-->
 
 ## 🌱 Currently Learning
 저는 현재 마이크로서비스에 대한 아키텍처 설계와 쿠버네티스의 기술 심화를 학습하고 있습니다.
