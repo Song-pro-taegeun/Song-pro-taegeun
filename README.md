@@ -1,5 +1,4 @@
-# 안녕하세요, 송태근입니다 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-pro-taegeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-동적 웹 애플리케이션 구축에 대한 전문 지식을 갖춘 열정적인 풀 스택 개발자입니다. 저는 다양한 프레임워크에 대한 경험이 있으며 항상 새로운 기술을 배우는 데 열려 있습니다.
+# 안녕하세요, 송태근입니다 👋 
 <br/>
 
 
