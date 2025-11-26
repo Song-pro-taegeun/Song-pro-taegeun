@@ -7,7 +7,6 @@
 ### 🌐 Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
   <img src="https://img.shields.io/badge/QueryDSL-512BD4?style=for-the-badge&logo=google&logoColor=white" alt="QueryDSL" />
@@ -34,7 +33,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
 ### 📨 Message Queue & In-memory
@@ -48,9 +46,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+<!-- 
 ### 🎨 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -68,6 +66,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
+-->
 
 ### 🧰 Tools
 <p align="left">  
@@ -91,10 +90,11 @@
 <br/>
 -->
 
-## 🌱 Currently Learning
-저는 현재 마이크로서비스에 대한 아키텍처 설계와 쿠버네티스의 기술 심화를 학습하고 있습니다.
-<br/>
-
+<!-- 
+  ## 🌱 Currently Learning
+  저는 현재 마이크로서비스에 대한 아키텍처 설계와 쿠버네티스의 기술 심화를 학습하고 있습니다.
+  <br/>
+-->
 ## 📝 Notion
 <p align="left">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
