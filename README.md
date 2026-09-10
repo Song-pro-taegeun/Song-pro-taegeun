@@ -77,10 +77,13 @@
 </p>
 <br/>
 
+<!--
 ## 📈 GitHub Stats
 ![Song-pro-taegeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-pro-taegeun&show_icons=true&theme=tokyonight)  
 <br/>
+-->
 
+<!--
 ### 🏆 Solved.ac
 <p align="left">
   <a href="https://solved.ac/yourusername">
@@ -88,6 +91,7 @@
   </a>
 </p>
 <br/>
+-->
 
 <!-- 
   ## 🌱 Currently Learning
@@ -98,7 +102,7 @@
 ## 📝 Notion
 <p align="left">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <a href ="https://pentagonal-hippodraco-9c7.notion.site/Developer-12ed2a86a71880e4868ce38f1b19a3fa?pvs=4" target="_blank">
+  <a href ="https://pentagonal-hippodraco-9c7.notion.site/5-B-E-1bad2a86a7188074b3f8d4ce9d4dc6be?pvs=73" target="_blank">
     이력서 보러가기
   </a>
 </p>
